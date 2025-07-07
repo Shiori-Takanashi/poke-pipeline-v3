@@ -1,0 +1,17 @@
+# Python bytecode
+__pycache__/
+
+
+# main directory
+.venv/
+.vscode/
+json/
+debug/
+
+# other directories
+.pytest_cache/
+
+# file
+.env
+*.sqlite3
+*.log
